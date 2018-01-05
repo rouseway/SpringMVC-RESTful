@@ -8,6 +8,6 @@
     </head>    
         
     <body>    
-        <c:out value="${str0121}"></c:out>    
+        <c:out value="${strDisplay}"></c:out>    
     </body>    
 </html>    
